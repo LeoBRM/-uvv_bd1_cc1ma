@@ -2,7 +2,6 @@ DROP DATABASE IF EXISTS uvv;
 
 DROP USER IF EXISTS leonardo;
 -- 1. Criação de usuário específico
-user_name
 
 CREATE USER leonardo WITH
   NOSUPERUSER
