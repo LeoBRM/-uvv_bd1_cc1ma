@@ -16,7 +16,7 @@ Um Problem Set (PSET) é um conjunto de problemas, tarefas e questões bem dific
 - SQL Power Architect
 - PostgreSQL
 - Terminal Linux
-- mariaDB
+- MariaDB
 
 ### PSET1
 O Trabalho foi entregue pelo professor Abrantes, onde possui uma estrutura de um banco de dados  no PDF, e se pede o script para o desenvolvimento SQL desse mesmo a partir do que se foi estudado em aula e na oracle academy.
